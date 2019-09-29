@@ -1,0 +1,3 @@
+# KindleFireAPI
+Google Store API
+YOU NEED TO DOWNLOAD ALL 4 DO NOT RENAME
